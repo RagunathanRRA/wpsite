@@ -1,0 +1,7 @@
+[Mon Aug 26 12:49:31.658039 2024] [fcgid:warn] [pid 13524:tid 1440] [client ::1:59966] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/
+[Mon Aug 26 12:49:31.658039 2024] [core:error] [pid 13524:tid 1440] [client ::1:59966] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/
+[Mon Aug 26 15:13:49.847164 2024] [fcgid:warn] [pid 13524:tid 1412] [client ::1:53851] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/themes.php?page=tgmpa-install-plugins
+[Mon Aug 26 15:13:49.847164 2024] [fcgid:warn] [pid 13524:tid 1412] (138)timed out: [client ::1:53851] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://localhost:10004/wp-admin/themes.php?page=tgmpa-install-plugins
+[Mon Aug 26 15:15:16.515370 2024] [access_compat:error] [pid 13524:tid 1376] [client ::1:54138] AH01797: client denied by server configuration: D:/Study/wpsite/app/public/wp-content/uploads/woocommerce_uploads/
+[Mon Aug 26 15:18:29.687515 2024] [fcgid:warn] [pid 13524:tid 1412] [client ::1:54512] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/themes.php?page=one-click-demo-import&step=import&import=0
+[Mon Aug 26 15:18:29.687515 2024] [core:error] [pid 13524:tid 1412] [client ::1:54512] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/themes.php?page=one-click-demo-import&step=import&import=0
